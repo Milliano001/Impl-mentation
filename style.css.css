@@ -640,16 +640,7 @@ footer{
       margin-left: 180px;
       font-size: 4vw;
   }
-  ul{
-      margin-top: -25px;
-      margin-left: -5px;
-  }
-  ul li {
-      margin-left: 50px;
-  }
-  ul li a{
-      font-size: 2vw;
-  }   
+    
 }
 
 @media screen and (max-width: 450px){
